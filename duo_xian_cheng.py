@@ -211,8 +211,8 @@ captcha = input('输入验证码')
 
 url = 'http://bt.byr.cn/'
 url += '/takelogin.php'
-id1 = 'stan'
-password = 'H31a41n59y26i'
+id1 = '*****'
+password = '*******'
 
 postd = {'username':id1,
          'password':password,
