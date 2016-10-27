@@ -11,7 +11,7 @@ import codecs
 import threading
 from numpy import *
 
-head = 'http://m.rxxsww.com/rexue/424/'
+head = '*******'
 
 ji = 45856
 
